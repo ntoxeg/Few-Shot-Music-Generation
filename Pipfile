@@ -13,6 +13,10 @@ tensorflow-gpu = "*"
 [dev-packages]
 pylint = "*"
 yapf = "*"
+portal-gun = "*"
 
 [requires]
 python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true
